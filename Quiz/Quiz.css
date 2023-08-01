@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    flex-direction: column;
+    height:700px;
+    width: 360px;
+    background-color: blue;
+    align-items: center;
+    border-radius: 15px;
+    padding: 15px;
+}
