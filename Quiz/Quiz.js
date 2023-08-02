@@ -15,7 +15,8 @@ function changeColor() {
             document.getElementById("Question2").style.color = "red"; 
         }
 
-    if(inputtedText == "Joe Biden"){
+  
+        if(inputtedText == "Joe Biden"){
         document.getElementById("Question3").style.color = "green";
         }
         else{
