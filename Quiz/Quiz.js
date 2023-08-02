@@ -23,7 +23,7 @@ function changeColor() {
             document.getElementById("Question3").style.color = "red"; 
         }
 
-    if(inputtedText == "Tinubu"){
+        if(inputtedText == "Tinubu"){
         document.getElementById("Question4").style.color = "green";
         }
         else{
