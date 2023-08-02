@@ -3,7 +3,7 @@ body{
     flex-direction: column;
     height:700px;
     width: 360px;
-
+    background-color:goldenrod ;
     align-items: center;
     border-radius: 15px;
     padding: 15px;
@@ -20,5 +20,5 @@ body{
 }
 
 header{
-    background-color: aqua;
+    color: aqua;
 }
