@@ -8,21 +8,21 @@ function changeColor() {
         document.getElementById("Question1").style.color = "red"; 
     }
 
-     if(inputtedlText == "Whale"){
+     if(inputtedText == "Whale"){
         document.getElementById("Question2").style.color = "green";
         }
         else{
             document.getElementById("Question2").style.color = "red"; 
         }
 
-    if(inputtedkText == "Joe Biden"){
+    if(inputtedText == "Joe Biden"){
         document.getElementById("Question3").style.color = "green";
         }
         else{
             document.getElementById("Question3").style.color = "red"; 
         }
 
-    if(inputtedjText == "Tinubu"){
+    if(inputtedText == "Tinubu"){
         document.getElementById("Question4").style.color = "green";
         }
         else{
