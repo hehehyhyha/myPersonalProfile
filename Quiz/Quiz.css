@@ -3,11 +3,12 @@ body{
     flex-direction: column;
     height:700px;
     width: 360px;
-    background-color: goldenrod;
+
     align-items: center;
     border-radius: 15px;
     padding: 15px;
 }
+
 #myButton{
     padding: 15px;
     border-radius: 15px;
@@ -15,5 +16,9 @@ body{
     width: 250px;
     background-color:black ;
     color: white;
-    
+
+}
+
+header{
+    background-color: aqua;
 }
