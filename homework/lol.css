@@ -12,12 +12,15 @@
  
 header {
     color: crimson;
+    font-family: 'Times New Roman', Times, serif;
 }
 main {
     color: goldenrod;
+    font-family: 'Times New Roman', Times, serif;
 }
 footer {
     color: cyan;
+    font-family: 'Times New Roman', Times, serif;
 }
 html{
     display: table;
