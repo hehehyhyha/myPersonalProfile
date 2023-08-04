@@ -2,8 +2,8 @@
     display: flex;
     flex-direction: column;
     height:700px;
-    width: 360px;
-    background-color: blue;
+    width: 650px;
+    background-color: darkblue;
     align-items: center;
     border-radius: 15px;
     padding: 15px;
@@ -15,13 +15,20 @@
     height: 100px;
     width: 250px;
     background-color:beige ;
-    color: gray;
+    color:grey;
     font-size:25px;
     font-style:italic ;
-    font-family: pasifico;
+    font-family:'Times New Roman', Times, serif;
 
 }
 
 header{
     color: aqua;
 }
+
+html {
+    display: table;
+    margin: auto;
+    }
+     
+   
