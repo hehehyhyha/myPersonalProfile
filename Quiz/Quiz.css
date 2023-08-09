@@ -3,7 +3,7 @@
     flex-direction: column;
     height:700px;
     width: 650px;
-    background-color: darkblue;
+    background-color: darkgray;
     align-items: center;
     border-radius: 15px;
     padding: 15px;
@@ -14,7 +14,7 @@
     border-radius: 15px;
     height: 100px;
     width: 250px;
-    background-color:beige ;
+    background-color:black ;
     color:grey;
     font-size:25px;
     font-style:italic ;
@@ -23,7 +23,7 @@
 }
 
 header{
-    color: aqua;
+    color: darkblue;
 }
 
 html {
@@ -32,7 +32,7 @@ html {
     }
 
     main{
-        color: white;
+        color: black;
     }
      
    
