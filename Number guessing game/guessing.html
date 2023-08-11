@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game</title>
+    <link rel="stylesheet" href="./guessing.css">
+</head>
+<body>
+    <div class="Asian" id="Asian">
+        <section class="box">
+            <div class="image">
+                <img src="./image.png" alt="">
+            </div>
+            <div class="text">
+                <h3> Let's Guess The Number Between 1 to 10</h3>
+                <section class="input-box">
+                    <input type="text" id="number">
+                </section>
+                <section class="button-box">
+                    <button onclick="check()">
+                        Check
+                    </button>
+                </section>
+            </div>
+        </section>
+    </div>
+    <div class="win" id="win">
+        <h3>
+            <span style="color: red">Congratulation!</span> You Won .....
+        </h3>
+    </div>
+    <div class="lose" id="lose">
+        <h3>
+            <span style="color: rgb(255, 187, 0)">Opps !</span> Try Again .....
+        </h3>
+    </div>
+
+    <script src="./guessing.js"></script>
+</body>
+</html>
