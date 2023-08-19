@@ -1,0 +1,9 @@
+body.light-mode {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #fff;
+ }
+
+ body.dark-mode {
+    background-color: #333;
+    color: #fff;
+ }

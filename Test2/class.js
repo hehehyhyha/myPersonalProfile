@@ -1,8 +1,15 @@
-function Testingif (number){
-    if(number > 5) {
-        console.log("This number is greater than 5")
-    }
-    else {
-        console.log("less than 5")
-    }
+var intro = document.getElementsByClassName('intro');
+
+
+
+var myInput = document.getElementById('myText');
+
+
+
+function diplayInput(){
+    var input = document.getElementById('myText').value;
+    document.getElementsByClassName('intro')[0].innerHTML = input;
 }
+
+
+
